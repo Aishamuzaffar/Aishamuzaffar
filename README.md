@@ -1,17 +1,17 @@
 
 <p align="center">
-  <a href="https://github.com/Zukhrufaa-Memon">
-    <img src="https://img.shields.io/github/followers/zukhrufaa-memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/Aishamuzaffar">
+    <img src="https://img.shields.io/github/followers/Aishamuzaffar?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/zukhrufa-memon" >
+  <a href="https://www.linkedin.com/in/aisha-muzaffar-b54a31222/" >
    <img alt="Zukhrufaa-Memon | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/zukhrufaa_m20/" target="_blank">
+<a href="https://www.instagram.com/ayeshamuzaffar12?igsh=MWh2ZGY2ejBhejhyaA==" target="_blank">
   <img alt="Zukhrufaa Memon | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
-## Hey! This is Zukhrufa Memon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey! This is Aisha Muzaffar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - ✍🏻 I'm a passionate developer.
 - 🔭 I’m currently working with Flutter.
