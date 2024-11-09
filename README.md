@@ -5,10 +5,10 @@
   </a>
 
   <a href="https://www.linkedin.com/in/aisha-muzaffar-b54a31222/" >
-   <img alt="Zukhrufaa-Memon | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="Aisha Muzaffar| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ayeshamuzaffar12?igsh=MWh2ZGY2ejBhejhyaA==" target="_blank">
-  <img alt="Zukhrufaa Memon | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="Aisha Muzaffar | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ## Hey! This is Aisha Muzaffar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
